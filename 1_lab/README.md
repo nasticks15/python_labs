@@ -14,9 +14,9 @@
     5. Створили ноутбук my_first_app.ipynb та виконали код у першій комірці.
     6. Створили комірку з програмою від ChatGPT:Програма питає ім’я користувача і вітається з ним — приклад простої взаємодії людини та ШІ.
      7. Зроблено скріншоти результатів виконання програм і додано їх у папку pictures у межах 1_lab.
-     ![alt text](./pictures/scrin1.jpg)
-     ![alt text](./pictures/scrin2.jpg)
-     ![alt text](./pictures/scrin3.jpg)
+     ![alt text](./pictures/scrin1.png)
+     ![alt text](./pictures/scrin2.png)
+     ![alt text](./pictures/scrin3.png)
 
 ### Висновок:
 > у висновку потрібно відповісти на запитання:
