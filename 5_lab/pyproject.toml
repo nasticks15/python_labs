@@ -1,0 +1,23 @@
+[project]
+name = "5-lab"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Анастасія Болдирєва",email = "aboldyrieva2022@itcollege.lviv.ua"}
+]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[dependency-groups]
+dev = [
+    "pytest (>=9.0.2,<10.0.0)",
+    "coverage (>=7.13.0,<8.0.0)",
+    "pytest-cov (>=7.0.0,<8.0.0)"
+]
